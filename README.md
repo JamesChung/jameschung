@@ -1,4 +1,4 @@
-## Hello / 안녕하세요 👋
+## Hello / 안녕 👋
 
 <img align="right" width="80px" src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" />
 
