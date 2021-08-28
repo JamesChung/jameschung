@@ -4,6 +4,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/dubonzi/dubonzi" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/JamesChung/jameschung" alt="Visitors badge" />
    </a>
 </p>
