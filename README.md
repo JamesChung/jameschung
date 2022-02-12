@@ -2,7 +2,8 @@
 
 Just a boring dev who's worn many hats:
 
-* Staff Software Engineer - Outdoorsy (Current)
+* Senior Cloud Engineer - McKinsey & Company (Current)
+* Staff Software Engineer - Outdoorsy
 * Cloud Application Architect - AWS
 * Security Consultant - AWS
 * Cloud Developer - AWS
@@ -10,6 +11,6 @@ Just a boring dev who's worn many hats:
 
 You can learn a bit more about me at [jchung.dev](https://jchung.dev)
 
-<img align="right" width="80px" src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" />
+<img align="right" width="80px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jameschung&hide_border=true&layout=compact&theme=dark)
