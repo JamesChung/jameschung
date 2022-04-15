@@ -2,11 +2,11 @@
 
 Just a boring dev who's worn many hats:
 
-* Senior Cloud Engineer - McKinsey & Company (Current)
+* Senior Cloud Engineer - McKinsey & Company [Current]
 * Staff Software Engineer - Outdoorsy
-* Cloud Application Architect - AWS
-* Security Consultant - AWS
-* Cloud Developer - AWS
+* Cloud Application Architect - Amazon Web Services (AWS)
+* Security Consultant - Amazon Web Services (AWS)
+* Cloud Developer - Amazon Web Services (AWS)
 * Application Developer - T. Rowe Price
 
 You can learn a bit more about me at [jchung.dev](https://jchung.dev)
