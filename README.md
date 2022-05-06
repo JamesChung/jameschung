@@ -2,6 +2,8 @@
 
 Just a boring dev who's worn many hats:
 
+<img align="right" width="90px" src="images/rustacean-flat-gesture.png" />
+
 * Senior Cloud Engineer - McKinsey & Company [Current]
 * Staff Software Engineer - Outdoorsy
 * Cloud Application Architect - Amazon Web Services (AWS)
