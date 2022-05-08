@@ -13,6 +13,6 @@ Just a boring dev who's worn many hats:
 
 You can learn a bit more about me at [jchung.dev](https://jchung.dev)
 
-<img align="right" width="80px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
+<img align="right" width="80px" src="images/gopher.svg" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jameschung&hide_border=true&layout=compact&theme=dark)
