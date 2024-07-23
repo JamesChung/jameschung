@@ -4,7 +4,7 @@ Just a boring dev who's worn many hats:
 
 <img align="right" width="90px" src="images/rustacean-flat-gesture.png" />
 
-* Senior Engineer - McKinsey & Company [Current]
+* Senior Engineer II - McKinsey & Company [Current]
 * Staff Software Engineer - Outdoorsy
 * Cloud Application Architect - Amazon Web Services (AWS)
 * Security Consultant - Amazon Web Services (AWS)
